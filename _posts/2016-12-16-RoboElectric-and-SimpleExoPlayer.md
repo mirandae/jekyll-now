@@ -1,6 +1,6 @@
-----
+---
 layout: post
-title: RoboElectric and Exoplayer2's SimpleExoPlayer
+title: RoboElectric 3.1.4 and Exoplayer2's SimpleExoPlayer
 ---
 
 I ran into a minor bug (feature?) when writing unit tests about SimpleExoPlayer's behavior with RoboElectric. If you're unfamiliar with them, RoboElectric allows you run Android unit tests on your own machine
