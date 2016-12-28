@@ -20,3 +20,5 @@ Instead, you can first mock out the CaptioningManager.
 But this doesn't get rid of all of the exceptions. You're also going to use *reflection*. Reflection is a Java feature that basically allows the currently running code to examine itself. Functions like ClassOf or Class.isInstance are examples of using reflection. It's in general not considered to be good style, but I couldn't think of a better (quick) way to handle this problem.
 
 Here, we're going to use reflection to change the -- private constructor to be public. Then, we're going to just create the -- and sub it in.
+
+And you're done! Simple enough, but I thought it was a nice way to see reflection.
