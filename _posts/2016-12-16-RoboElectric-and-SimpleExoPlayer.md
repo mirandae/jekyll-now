@@ -1,4 +1,4 @@
-2016-12----
+----
 layout: post
 title: RoboElectric and Exoplayer2's SimpleExoPlayer
 ---
